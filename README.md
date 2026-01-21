@@ -1,5 +1,9 @@
+
 # TinyML Independent Study 
 This project consists of a custom TinyML model which distinguishes voice by gender using mel-frequency cepstral coefficients (MFCCs). Training with MFCCs made the model more sound for recognition in human speech. I also took notes on a snow forecast model and my notes are also included. This project was developed for the Arduino Nano 33 BLE Sense Rev2 with headers. Below is an overview of the model I developed: 
+
+## Short Summary
+**TinyML Independent Study: a custom TinyML model which distinguishes voice by gender using mel-frequency cepstral coefficients (MFCCs)**
 
 # Voice Gender Classification using LSTM
 
